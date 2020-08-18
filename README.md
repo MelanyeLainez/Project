@@ -1,14 +1,14 @@
-# Hamilton <!-- omit in toc -->
+# Melanye <!-- omit in toc -->
 
-A minimal and beautiful Jekyll theme best for writing and note-taking.
 
-The original purpose of this theme is to be a replacement of the default Jekyll theme -- [Minima](https://github.com/jekyll/minima). Hamilton is an enhancement of Minima but still, keep in minimal.
+
+The original purpose of this theme is to be a replacement of the default Jekyll theme -- [Minima](https://github.com/jekyll/minima). 
 
 Please check out the [demo](https://ngzhio.github.io/jekyll-theme-hamilton/).
 
-| Daylight | Sunrise/Sunset | Midnight |
+| Daylight | Sunrise/Sunset | Sunrise |
 | --- | --- | --- |
-| ![screenshot](screenshot.png) | ![screenshot](screenshot-sunrise.png) | ![screenshot](screenshot-midnight.png)
+| ![screenshot](screenshot-sunrise.png) 
 
 ## Features <!-- omit in toc -->
 
@@ -154,14 +154,13 @@ The navigation bar also supports dropdown submenus:
 ### Social Media
 
 You can create a file `_data/social.yml` to configure links to your social media. For example,
-
-```yml
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
-  icon: fab fa-github
+```
+- title: Facebook
+  url: https://facebook.com/MelanyeLainez
+  icon: fab fa-facebook
+- title: Instagram
+  url: https://instagram.com/melanye_26
+  icon: fab fa-instagram
 ```
 
 ### Skins
